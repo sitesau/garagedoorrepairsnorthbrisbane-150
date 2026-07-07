@@ -1,0 +1,17 @@
+{
+  "wheel_id": 116,
+  "slug": "garagedoorrepairsnorthbrisbane-150",
+  "project": "garage-door-spring-repair-north-brisbane-g-150",
+  "parent_t1_ref": "garagedoorrepairsnorthbrisbane-001",
+  "node_role": "buffer",
+  "money_target": "garagedoorrepairsnorthbrisbane.com.au",
+  "primary_kw": "garage door spring repair north brisbane",
+  "intended_url": "https://sitesau.github.io/garagedoorrepairsnorthbrisbane-150/",
+  "links": [
+    {
+      "target_url": "https://garage-door-spring-repair-north-brisbane.vercel.app/",
+      "anchor": "garage door spring repair north brisbane",
+      "rel": "follow"
+    }
+  ]
+}
